@@ -34,3 +34,36 @@ View and copy the translated text.
 Deployment
 
 The website can be hosted on platforms like GitHub Pages, Vercel, or Netlify for easy access.
+Usage
+
+Enter text in the input box.
+
+Select the source and target languages.
+
+Click the "Translate" button.
+
+View and copy the translated text.
+
+Deployment
+
+The website can be hosted on platforms like GitHub Pages, Vercel, or Netlify for easy access.
+
+Contributing
+
+Contributions are welcome! Please follow these steps:
+
+Fork the repository.
+
+Create a new branch (feature-branch).
+
+Commit your changes.
+
+Push the branch and create a pull request.
+
+License
+
+This project is licensed under the MIT License.
+
+Contact
+
+For any issues or suggestions, please contact [your email or GitHub profile]
